@@ -204,8 +204,8 @@ h1, h2, h3, h4, h5, h6 {
 .hero{
   width: 100%;
   height: 100vh;
-/*   background: url("/assets/img/programming_1440x900.jpg"); */
-  background-color: #149ddd;
+  background: url("/assets/img/programming_1440x900.jpg");
+/*   background-color: #149ddd; */
   background-size: cover;
 }
 
